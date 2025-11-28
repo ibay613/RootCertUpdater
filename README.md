@@ -1,6 +1,3 @@
-Here is a professional README description tailored for GitHub. It emphasizes the "No PowerShell" dependency and the legacy support aspect.
-
-***
 
 # Windows Root Certificate Updater (Standalone / No PowerShell)
 
