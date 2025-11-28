@@ -35,4 +35,6 @@ A lightweight, standalone utility to update Trusted Root Certificates and Disall
 ### ⚠️ Compatibility Note for Windows XP
 While this tool successfully updates the Certificate Store on Windows XP, the operating system itself lacks the cryptographic libraries for modern protocols (TLS 1.2/1.3).
 *   **IE/Chrome on XP:** Will still fail on most modern sites even after this update.
-*   **Solution:** Use this tool to fix system trust, but browse with a modern fork like **Supermium** or **MyPal** to handle the encryption.[Rootcertupdater.zip](https://github.com/user-attachments/files/23815017/Rootcertupdater.zip)
+*   **Solution:** Use this tool to fix system trust, but browse with a modern fork like **Supermium** or **MyPal** to handle the encryption.
+*
+*   [Rootcertupdater.zip](https://github.com/user-attachments/files/23815017/Rootcertupdater.zip)
