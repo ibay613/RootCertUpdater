@@ -32,10 +32,8 @@ A lightweight, standalone utility to update Trusted Root Certificates and Disall
 1.  Run the executable (`RootCertUpdater.exe`).
 2.  **To Update Current Machine:** Select **"Online Mode"** and click **"Update Certificates"**.
 3.  **To Update an Offline Machine:**
-    *   Run the tool on a connected machine.
-    *   Select **"Download Only"** to save `roots.sst` and `disallowedcert.sst`.
-    *   Copy the EXE and the two `.sst` files to the offline machine.
     *   Run the tool on the offline machine and select **"Offline Mode"**.
+    *   Certs have already been downloaded and will be installed **
 
 ### ⚠️ Compatibility Note for Windows XP
 While this tool successfully updates the Certificate Store on Windows XP, the operating system itself lacks the cryptographic libraries for modern protocols (TLS 1.2/1.3).
