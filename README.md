@@ -38,3 +38,6 @@ While this tool successfully updates the Certificate Store on Windows XP, the op
 *   **Solution:** Use this tool to fix system trust, but browse with a modern fork like **Supermium** or **MyPal** to handle the encryption.
 *
 *   [Rootcertupdater.zip](https://github.com/user-attachments/files/23815017/Rootcertupdater.zip)
+
+
+https://release-assets.githubusercontent.com/github-production-release-asset/1105764485/5f8c06d1-666b-4dc8-9c33-db7dd22fd48d?sp=r&sv=2018-11-09&sr=b&spr=https&se=2025-12-18T21%3A10%3A24Z&rscd=attachment%3B+filename%3DRootcertupdater.zip&rsct=application%2Foctet-stream&skoid=96c2d410-5711-43a1-aedd-ab1947aa7ab0&sktid=398a6654-997b-47e9-b12b-9515b896b4de&skt=2025-12-18T20%3A10%3A00Z&ske=2025-12-18T21%3A10%3A24Z&sks=b&skv=2018-11-09&sig=4ghLiPNV2il1907qFFCekA5VzBQZqew08dg0sRHrQuQ%3D&jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmVsZWFzZS1hc3NldHMuZ2l0aHVidXNlcmNvbnRlbnQuY29tIiwia2V5Ijoia2V5MSIsImV4cCI6MTc2NjA4ODkwMCwibmJmIjoxNzY2MDg4NjAwLCJwYXRoIjoicmVsZWFzZWFzc2V0cHJvZHVjdGlvbi5ibG9iLmNvcmUud2luZG93cy5uZXQifQ.oCF7HcY242ZRF7eOfjlKSnKn44LTE7uz5vuoYrjOBVk&response-content-disposition=attachment%3B%20filename%3DRootcertupdater.zip&response-content-type=application%2Foctet-stream
